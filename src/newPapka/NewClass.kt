@@ -1,0 +1,3 @@
+package newPapka
+
+class NewClass
