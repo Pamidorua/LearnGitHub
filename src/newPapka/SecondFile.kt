@@ -1,0 +1,4 @@
+package newPapka
+
+class SecondFile {
+}
